@@ -13,3 +13,6 @@ Python + Django + HTML + CSS + JavaScript
 1. add groups
 2. optimize UI
 3. adapt to multi-media blog
+
+## Author:
+Hongli Bu
